@@ -12,8 +12,6 @@ namespace PommProject\Silex\ProfilerServiceProvider;
 use Silex\Application;
 use Silex\ServiceProviderInterface;
 
-use PommProject\SymfonyBridge\DatabaseDataCollector;
-
 use Symfony\Bridge\Twig\Extension\YamlExtension;
 
 /**
